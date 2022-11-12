@@ -35,5 +35,5 @@ I'd like to do project that are related to networking, docker or Automation
 Feel free to contact me at:
 <br><br>
 
-[<img src="https://img.shields.io/badge/Email-maxi%40welyn.tk-orange">](mailto:maxi@weylyn.tk)
-[<img src="https://img.shields.io/badge/Personal%20Site-weylyn.tk-red">](https://weylyn.tk)
+[<img src="https://img.shields.io/badge/Email-maxi%40welyn.tk-orange">](mailto:maxi@weylyn.net)
+[<img src="https://img.shields.io/badge/Personal%20Site-weylyn.tk-red">](https://weylyn.net)
