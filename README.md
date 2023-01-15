@@ -35,5 +35,9 @@ I'd like to do project that are related to networking, docker or Automation
 Feel free to contact me at:
 <br><br>
 
+
+  <a href='https://github.com/pepaondrugs'>
+        <img alt='Snake Animation' src='https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg'/>
+
 [<img src="https://img.shields.io/badge/Email-maxi%40welyn.net-orange">](mailto:maxi@weylyn.net)
 [<img src="https://img.shields.io/badge/Personal%20Site-weylyn.net-red">](https://weylyn.net)
