@@ -20,7 +20,7 @@ I'd like to do project that are related to networking, docker or Automation
 
 
  Here are some projects that I'm working on:
-- [PLAYIT.GG-Docker](https://github.com/PepaonDrugs/playitgg-docker)
+- [PLAYIT.GG-Docker](https://github.com/PepaonDrugs/playitgg-docker)[](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 - [Weylyn-Website](https://github.com/PepaonDrugs/Weylyn-website)
 
 
