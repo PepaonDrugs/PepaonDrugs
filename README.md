@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 I'm Maxi ([16] y.o) !
@@ -20,14 +21,18 @@ I'd like to do project that are related to networking, docker or Automation
 
 
  Here are some projects that I'm working on:
-- [PLAYIT.GG-Docker](https://github.com/PepaonDrugs/playitgg-docker)
-- [Weylyn-Website](https://github.com/PepaonDrugs/Weylyn-website)
+
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pepaondrugs&repo=playitgg-docker&theme=aura)](https://github.com/pepaondrugs/playitgg-docker)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pepaondrugs&repo=Weylyn-website&theme=aura)](https://github.com/pepaondrugs/Weylyn-website)
+
 
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=PepaonDrugs">
-<img src="https://github-profile-trophy.vercel.app/?username=PepaonDrugs">
+
+ <img src="https://github-readme-stats.vercel.app/api?username=pepaondrugs&show_icons=true&theme=aura">
+
+
 </details>
 
 
@@ -39,5 +44,5 @@ Feel free to contact me at:
   <a href='https://github.com/pepaondrugs'>
         <img alt='Snake Animation' src='https://raw.githubusercontent.com/PepaonDrugs/PepaonDrugs/output/github-contribution-grid-snake.svg'/>
 
-[<img src="https://img.shields.io/badge/Email-maxi%40welyn.net-orange">](mailto:maxi@weylyn.net)
-[<img src="https://img.shields.io/badge/Personal%20Site-weylyn.net-red">](https://weylyn.net)
+[<img src="https://img.shields.io/badge/Email-maxi%40welyn.net-purple">](mailto:maxi@weylyn.net)
+[<img src="https://img.shields.io/badge/Website-weylyn.net-red">](https://weylyn.net)
