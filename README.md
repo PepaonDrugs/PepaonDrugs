@@ -9,7 +9,6 @@ I'd like to do project that are related to networking, docker or Automation
 <br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"  width=50>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width=50> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"  width=50> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"  width=50> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  width=50> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  width=50>
