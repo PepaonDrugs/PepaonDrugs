@@ -43,5 +43,5 @@ Feel free to contact me at:
   <a href='https://github.com/pepaondrugs'>
         <img alt='Snake Animation' src='https://raw.githubusercontent.com/PepaonDrugs/PepaonDrugs/output/github-contribution-grid-snake.svg'/>
 
-[<img src="https://img.shields.io/badge/Email-maxi%40welyn.net-purple">](mailto:pepa@weylyn.net)
+[<img src="https://img.shields.io/badge/Email-pepa%40welyn.net-purple">](mailto:pepa@weylyn.net)
 [<img src="https://img.shields.io/badge/Website-weylyn.net-red">](https://weylyn.net)
