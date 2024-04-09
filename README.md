@@ -16,11 +16,3 @@
   <a href='https://github.com/pepaondrugs'>
         <img alt='Snake Animation' src='https://github.com/PepaonDrugs/PepaonDrugs/blob/output/github-contribution-grid-snake-dark.svg'/>
 
-Feel free to contact me at:
-<br><br>
-
-
-
-
-[<img src="https://img.shields.io/badge/Email-pepa%40welyn.net-purple">](mailto:pepa@weylyn.net)
-[<img src="https://img.shields.io/badge/Website-weylyn.net-red">](https://weylyn.net)
