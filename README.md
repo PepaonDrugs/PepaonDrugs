@@ -1,7 +1,7 @@
  Here are some projects that I'm working on:
 
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pepaondrugs&repo=playitgg-docker&theme=aura)](https://github.com/pepaondrugs/playitgg-docker)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pepaondrugs&repo=Weylyn-website&theme=aura)](https://github.com/pepaondrugs/Weylyn-website)
+
 
 
 
